@@ -2,7 +2,6 @@
   "name": "tailwind-racxstudio",
   "version": "0.2.0",
   "private": true,
-  "homepage": "https://afshan-svg.github.io/bharat_messenger/",
   "dependencies": {
     "@emailjs/browser": "^4.4.1",
     "@emotion/react": "^11.13.0",

@@ -23,9 +23,9 @@ import Reiner from '../assets/images/Testimonials/Reiner.jpg';
 import Kruger from '../assets/images/Testimonials/Kruger.jpg';
 
 // TeamMembers
-// import CEO from '../assets/images/TeamMembers/CEO.jpg';
-// import HRD from '../assets/images/TeamMembers/HRD.jpg';
-// import Finance from '../assets/images/TeamMembers/Finance.jpg';
+import CEO from '../assets/images/TeamMembers/vikash.jpeg';
+import HRD from '../assets/images/TeamMembers/afshan.jpeg';
+import Finance from '../assets/images/TeamMembers/deshu.jpeg';
 // import ProjectManager from '../assets/images/TeamMembers/Project-manager.jpg';
 // import Frontend1 from '../assets/images/TeamMembers/Frontend1.jpg';
 // import Frontend2 from '../assets/images/TeamMembers/Frontend2.jpg';
@@ -173,17 +173,17 @@ export const TeamMembers = [
   {
     name: 'Vikash Kumar',
     position: 'Team Lead',
-    // imageUrl: CEO,
+    imageUrl: CEO,
   },
   {
     name: 'Afshan Khan',
     position: 'Web Developer',
-    // imageUrl: HRD,
+    imageUrl: HRD,
   },
   {
     name: 'Deshu Goyel',
     position: 'Marketing Manager',
-    // imageUrl: Finance,
+    imageUrl: Finance,
   },
   // {
   //   name: 'Tom Jimmy',

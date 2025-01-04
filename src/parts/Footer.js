@@ -17,7 +17,7 @@ export default function Footer() {
               and Security
             </p>
           </div>
-          <div className="w-1/3 mt-0 ml-16 mr-0 sm:ml-0 sm:mr-5">
+          {/* <div className="w-1/3 mt-0 ml-16 mr-0 sm:ml-0 sm:mr-5">
             <h1 className="text-lg text-theme-blue pt-4 pb-2">
               Office
             </h1>
@@ -27,7 +27,7 @@ export default function Footer() {
             <p className="text-lg text-gray-400 font-light">
               Rajasthan, Goa India
             </p>
-          </div>
+          </div> */}
           <div className="w-1/3 ml-16 sm:ml-0 mt-0">
             <h1 className="text-lg text-theme-blue pt-4 pb-2">
               Social
