@@ -1,9 +1,3 @@
-/* eslint-disable linebreak-style */
-/* eslint-disable import/extensions */
-/* eslint-disable max-len */
-/* eslint-disable react/jsx-filename-extension */
-// // eslint-disable-next-line max-len
-
 import React from 'react';
 
 import { Fade } from 'react-awesome-reveal';
